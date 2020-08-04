@@ -18,9 +18,20 @@ I'm a software engineer
 #### Programming Languages and Tools:
 Coming Soon
 
+
 </br> </br>
 ###### Contact me
 > If you have any further questions, please don’t hesitate to contact me e-mail: **ceo@egyptianprogrammers.com**
+
+
+</br> </br>
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=demasy&show_icons=true&hide_border=true" />
+
+
+
+
+
 <!--
 **demasy/demasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
