@@ -8,6 +8,8 @@
 ### Hi, I'm Demasy
 > Principal Oracle Technical Consultant | OCP | EBS | PaaS | OAF | ADF | ICAgile-ICP
 
+</br>
+
 ## I'm an Oracle Technical Consultant & Instructor
 I'm a software engineer
 
