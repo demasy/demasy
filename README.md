@@ -28,8 +28,7 @@ I'm a software engineer
 #### Programming Languages and Tools:
 Coming Soon
 
-### Tech Community
-
+#### Tech Community
 |Founder|
 |---------|
 |<a href="www.egyptianprogrammers.com"><img src="https://github.com/demasy/demasy/blob/master/images/ep_logo.jpg" height="100px"></a> |
