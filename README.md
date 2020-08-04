@@ -5,7 +5,7 @@
     <a href="https://www.instagram.com/demasy"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
-### Hi, I'm Demasy
+### Hi, I'm Demasy 👨🏻‍💻
 > Principal Oracle Technical Consultant | OCP | EBS | PaaS | OAF | ADF | ICAgile-ICP
 
 </br>
