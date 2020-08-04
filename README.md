@@ -6,7 +6,7 @@
 </p>
 
 ### Hi, I'm Demasy
-##### Principal Oracle Technical Consultant | OCP | EBS | PaaS | OAF | ADF | ICAgile-ICP
+> Principal Oracle Technical Consultant | OCP | EBS | PaaS | OAF | ADF | ICAgile-ICP
 
 ## About
 I'm a software engineer
