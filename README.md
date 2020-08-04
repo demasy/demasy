@@ -25,8 +25,19 @@ I'm a software engineer
 
 </br>
 
-## Programming Languages and Tools:
-Coming Soon
+## What I know :computer:
+- **Oracle Tech**
+	- Oracle OAF ❤️
+	- PL/SQL
+	- Java
+- **Competitive Programming**
+	- PL/SQL
+	- Java
+    - JavaScript
+- **Backend Development**
+	- NodeJS
+    
+</br>
 
 ## Tech Community
 |Founder|
