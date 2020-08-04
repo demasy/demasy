@@ -6,8 +6,11 @@
 <img align="right" width="400" height="400" src="https://instagram.feoh3-1.fna.fbcdn.net/v/t51.2885-15/e35/72767618_530543940843085_5872510229440679720_n.jpg?_nc_ht=instagram.feoh3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=QePZ0N-eHRoAX_hftNl&oh=08407c6056b3380fc09d01f51ed9729c&oe=5F30A1C4">
 -->
 
-
+[![Github](https://img.shields.io/github/followers/demasy?label=Follow&style=social)](https://github.com/demasy)
+[![Instagram](https://img.shields.io/badge/-@demasy_official-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/demasy_official_/)](https://www.instagram.com/sarthak_bharadwaj_/)
 [![Linkedin](https://img.shields.io/badge/-Ahmed%20Demasy-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/demasy/)](https://www.linkedin.com/in/demasy)
+
+
 <!--
 <p align="center">
     <a href="https://twitter.com/demasy"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
@@ -16,6 +19,8 @@
     <a href="https://www.instagram.com/demasy"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 -->
+
+</br>
 
 ### Hi, I'm Demasy 👨🏻‍💻
 > Principal Oracle Technical Consultant | OCP | EBS | PaaS | OAF | ADF | ICAgile-ICP 
