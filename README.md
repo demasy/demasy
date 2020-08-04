@@ -15,7 +15,7 @@
 </p>
 -->
 
-### Hi, I'm Demasy 👨🏻‍💻
+### Hi, I'm Demasy 👨🏻‍💻 🚀
 > Principal Oracle Technical Consultant | OCP | EBS | PaaS | OAF | ADF | ICAgile-ICP 
 
 </br>
