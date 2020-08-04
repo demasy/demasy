@@ -22,7 +22,7 @@
 
 [![Github](https://img.shields.io/github/followers/demasy?label=Follow&style=social)](https://github.com/demasy)
 [![Linkedin](https://img.shields.io/badge/-Ahmed%20Demasy-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/demasy/)](https://www.linkedin.com/in/demasy)
-[![Instagram](https://img.shields.io/badge/-@demasy_official-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/demasy_official_/)](https://www.instagram.com/demasy_official_/)
+[![Instagram](https://img.shields.io/badge/-@demasy_official-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/demasy_official/)](https://www.instagram.com/demasy_official/)
 
 </br>
 
