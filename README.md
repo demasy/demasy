@@ -26,7 +26,7 @@
 
 </br>
 
-## I'm an Oracle Principal Technical Consultant & Instructor
+## About 
 Stay Tuned
 
 
