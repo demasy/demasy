@@ -27,23 +27,8 @@
 </br>
 
 ## I'm an Oracle Principal Technical Consultant & Instructor
-I'm a software engineer
+Stay Tuned
 
-</br>
-
-## What I know :computer:
-- **Oracle Tech**
-	- Oracle OAF ❤️
-	- PL/SQL
-	- Java
-- **Competitive Programming**
-	- PL/SQL
-	- Java
-    - JavaScript
-- **Backend Development**
-	- NodeJS
-    
-</br>
 
 ## Tech Community
 |Founder|
