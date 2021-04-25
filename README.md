@@ -17,6 +17,7 @@
 
 ### Hello Developers 👋, I'm Demasy 👨🏻‍💻 🚀
 > Principal Oracle Technical Consultant | OCP | EBS | PaaS | OAF | ADF | ICAgile-ICP 
+> I studying programing language and tools and helping others to do it.
 
 </br>
 
