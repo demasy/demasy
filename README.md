@@ -15,6 +15,11 @@
 </p>
 -->
 
+
+ <img src="https://github.com/demasy/demasy/blob/master/images/aws-community-banner.jpg">
+
+<br>
+
 ### Hello developers 👋, I'm Demasy 👨🏻‍💻 🚀
 
 ##### Principal Oracle Technical Consultant | #AWSCommunityBuilder | OCP | EBS | OAF | PaaS | ICAgile-ICP | 2x Scrum Master 
