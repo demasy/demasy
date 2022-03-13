@@ -1,5 +1,5 @@
 <!--
-<h1 align= "center"><b> Ahmed El-Demasy </b></h1>
+<h1 align= "center"><b>Demasy </b></h1>
 </br> 
 </br>
 
@@ -15,8 +15,9 @@
 </p>
 -->
 
-### Hello Developers 👋, I'm Demasy 👨🏻‍💻 🚀
-> Principal Oracle Technical Consultant | OCP | EBS | PaaS | OAF | ADF | ICAgile-ICP 
+### Hello developers 👋, I'm Demasy 👨🏻‍💻 🚀
+
+##### Principal Oracle Technical Consultant | #AWSCommunityBuilder | OCP | EBS | OAF | PaaS | ICAgile-ICP | 2x Scrum Master 
 
 > I studying programing language and tools and helping others to do it.
 
