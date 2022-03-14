@@ -24,7 +24,7 @@
 
 ##### Principal Oracle Technical Consultant | #AWSCommunityBuilder | OCP | EBS | OAF | PaaS | ICAgile-ICP | 2x Scrum Master 
 
-> I studying programing language and tools and helping others to do it.
+> I studying programing language, tools and helping others to do it.
 
 </br>
 
