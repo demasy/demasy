@@ -82,5 +82,5 @@ Here are some ideas to get you started:
 ![Made with love in Egypt](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 -->
 <p align="center">
-Made with love ❤️ in Egypt
+Code with love ❤️ in Egypt
 </p>
