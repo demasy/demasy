@@ -41,9 +41,9 @@ Stay Tuned
 </br>
 
 ## Tech Community
-|Founder|
-|---------|
-|<a href="www.egyptianprogrammers.com"><img src="https://github.com/demasy/demasy/blob/master/images/ep_logo.jpg" height="100px"></a> |
+|Founder|Founder|
+|---------|---------|
+|<a href="www.egyptianprogrammers.com"><img src="https://github.com/demasy/demasy/blob/master/images/ep_logo.jpg" height="100px"></a> |<a href="www.egyptianprogrammers.com"><img src="https://github.com/demasy/demasy/blob/master/images/dl_logo.jpg" height="100px"></a> |
 
 
 </br> </br>
