@@ -41,9 +41,10 @@ Stay Tuned
 </br>
 
 ## Tech Community
+| Egyptian Programmers Community +186K | Demasy Labs|
+|:---------: | :---------: |
 |Founder|Founder|
-|---------|---------|
-|<a href="https://github.com/EgyptianProgrammers"><img src="https://github.com/demasy/demasy/blob/master/images/ep_logo.jpg" height="100px"></a> |<a href="https://github.com/demasylabs"><img src="https://github.com/demasy/demasy/blob/master/images/dl_logo.png" height="100px"></a> |
+|<a href="https://www.facebook.com/EgyptianProgrammers"><img src="https://github.com/demasy/demasy/blob/master/images/ep_logo.jpg" height="100px"></a> |<a href="https://github.com/demasylabs"><img src="https://github.com/demasy/demasy/blob/master/images/dl_logo.png" height="100px"></a> |
 
 
 </br> </br>
