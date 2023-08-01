@@ -35,7 +35,7 @@
 </br>
 
 ## About 
-Welcome to my GitHub profile! This is Demasy, an Oracle Technology Architect with a genuine passion for tech. With extensive experience designing and implementing enterprise-level solutions using Oracle technologies, I thrive on solving complex challenges and exploring innovative solutions.
+Welcome to my GitHub profile! This is **Demasy**, an Oracle Technology Architect with a genuine passion for tech. With extensive experience designing and implementing enterprise-level solutions using Oracle technologies, I thrive on solving complex challenges and exploring innovative solutions.
 
 
 </br> 
