@@ -20,11 +20,12 @@
 
 <br>
 
-### Hello developers 👋, I'm Demasy 👨🏻‍💻 🚀
+### Hello developers 👋, This is Demasy 👨🏻‍💻 🚀
+Technology Architect | Technical Lead | OAF | Cloud | OCI | AWS | Agile | 2x Scrum Master | #AWSCommunityBuilder 
 
-##### Principal Oracle Technical Consultant | #AWSCommunityBuilder | OCP | EBS | OAF | PaaS | ICAgile-ICP | 2x Scrum Master 
-
-> I studying programing language, tools and helping others to do it.
+``
+Passionate About Programming | Helping Others Succeed!
+``
 
 </br>
 
