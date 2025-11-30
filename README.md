@@ -37,7 +37,7 @@ Passionate About Programming | Helping Others Succeed!
 
 ## 👨‍💻 About Me
 
-This is **Ahmed El-Demasy**, an **Oracle Technology Architect** and recognized Oracle ACE ♠️, with a strong passion for designing enterprise solutions, mentoring developers, and contributing to the global Oracle community.
+This is **Ahmed El-Demasy**, an **Oracle Technology Architect** and recognized **Oracle ACE** ♠️, with a strong passion for designing enterprise solutions, mentoring developers, and contributing to the global Oracle community.
 
 Over the years, I’ve led major implementations across HR, HCM, E-Business Suite, Cloud, and integrations, always aiming to build scalable, clean, and future-proof architecture.
 
