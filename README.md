@@ -48,10 +48,12 @@ You'll discover a treasure trove of code samples, projects, and resources coveri
 </br>
 
 ## Tech Community
-| Egyptian Programmers Community +186K | Demasy Labs| AWS Community Builders|
-|:---------: | :---------: | :---------:| 
-|Founder|Founder|Builder | 
-|<a href="https://www.facebook.com/EgyptianProgrammers"><img src="https://github.com/demasy/demasy/blob/master/images/ep_logo.jpg" height="100px"></a> |<a href="https://github.com/demasylabs"><img src="https://github.com/demasy/demasy/blob/master/images/dl_logo.png" height="100px"></a> | |
+| Egyptian Programmers +186K | Demasy Labs. | Oracle ACE |
+|:---------:                 | :---------:  | :---------:| 
+| Community Manager          | Founder      | ACE Associate | 
+|<a href="https://www.facebook.com/EgyptianProgrammers"><img src="https://github.com/demasy/demasy/blob/master/images/ep_logo.jpg" height="100px"></a> |<a href="https://github.com/demasylabs"><img src="https://github.com/demasy/demasy/blob/master/images/dl_logo.png" height="100px"></a> | <a href="https://ace.oracle.com/ords/ace/profile/demasy"><img src="https://github.com/demasy/demasy/blob/master/images/ace-associate-2025_1.png" height="100px"></a>|
+
+
 
 
 </br> </br>
