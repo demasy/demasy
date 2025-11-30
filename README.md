@@ -62,6 +62,16 @@ You'll find a curated selection of my work, including:
 
 </br>
 
+## 🔧 Skills & Technologies
+Stay tuned!
+
+</br>
+
+## 📂 Featured Projects & Repositories
+Stay tuned!
+
+</br>
+
 ## Tech Community
 | Egyptian Programmers +190K | Demasy Labs  | Oracle ACE |
 |:---------:                 | :---------:  | :---------:| 
