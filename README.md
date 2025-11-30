@@ -21,7 +21,7 @@
 <br>
 
 ### Hello developers 👋, This is Demasy 👨🏻‍💻 🚀
-Technology Architect | Technical Lead | OAF | Cloud | OCI | AWS | Agile | 2x Scrum Master | #AWSCommunityBuilder 
+Oracle ACE | Oracle Solutions Architect | Technical Lead | OAF | Cloud | OCI | AWS | Agile | 2x Scrum Master
 
 ``
 Passionate About Programming | Helping Others Succeed!
