@@ -83,10 +83,13 @@ Stay tuned!
 
 
 </br> </br>
-###### Contact me
+
+> [!IMPORTANT]
+> **Just Call Demasy!**
+> <br>
 > If you have any further questions, please don’t hesitate to contact me at e-mail: **founder@demasy.io**
 
-
+</br>
 
 <!--
 
