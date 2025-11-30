@@ -49,11 +49,16 @@ I enjoy:
 
 <br>
 
-## What You'll Find Here!
-You'll discover a treasure trove of code samples, projects, and resources covering various programming languages, frameworks, and tools within my repositories. I believe in the power of collaboration and open-source contribution, so you'll often find me actively participating in tech communities.
+## 📦 What You'll Find Here
 
+You'll find a curated selection of my work, including:
 
-</br> 
+- Oracle EBS / OAF / PL/SQL Projects
+- SQLcl, APEX, ORDS & DB Utilities
+- Practical technical labs
+- Architecture examples & templates
+- Oracle Integration Experiments
+
 </br>
 
 ## Tech Community
