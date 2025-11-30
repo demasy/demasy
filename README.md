@@ -24,7 +24,8 @@
 Oracle ACE ♠️ | Oracle Solutions Architect | Tech Lead | OAF | Cloud | 2x OCI | AWS | Agile | 2x Scrum Master
 
 <p align="center">
-  <i>Passionate About Programming | Helping Others Succeed | Building the Next Generation of Oracle Developers</i>
+  <!-- <i>Passionate About Programming | Helping Others Succeed | Building the Next Generation of Oracle Developers</i> -->
+ <i>⭐ Empowering Developers | Building Enterprise Solutions | Sharing Knowledge 🚀</i>
 </p>
 
 </br>
