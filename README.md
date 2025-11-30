@@ -16,7 +16,7 @@
 -->
 
 
- <img src="https://github.com/demasy/demasy/blob/master/images/demasy-aws-community-banner.jpg">
+ <img src="https://github.com/demasy/demasy/blob/master/images/linkedin_ace_light_1920_1080.png">
 
 <br>
 
