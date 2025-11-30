@@ -35,8 +35,17 @@ Passionate About Programming | Helping Others Succeed!
 
 </br>
 
-## About 
-Welcome to my GitHub profile! This is **Demasy**, an Oracle Technology Architect with a genuine passion for tech. With extensive experience designing and implementing enterprise-level solutions using Oracle technologies, I thrive on solving complex challenges and exploring innovative solutions.
+## 👨‍💻 About Me
+
+This is **Ahmed El-Demasy**, an **Oracle Technology Architect** and recognized Oracle ACE ♠️, with a strong passion for designing enterprise solutions, mentoring developers, and contributing to the global Oracle community.
+
+Over the years, I’ve led major implementations across HR, HCM, E-Business Suite, Cloud, and integrations, always aiming to build scalable, clean, and future-proof architecture.
+
+I enjoy:
+- Solving complex technical challenges
+- Designing scalable enterprise systems
+- Sharing knowledge (LinkedIn, Dev.to, GitHub)
+- Helping new engineers grow in their careers
 
 <br>
 
