@@ -58,7 +58,7 @@ You'll discover a treasure trove of code samples, projects, and resources coveri
 
 </br> </br>
 ###### Contact me
-> If you have any further questions, please don’t hesitate to contact me e-mail: **founder@egyptianprogrammers.com**
+> If you have any further questions, please don’t hesitate to contact me at e-mail: **founder@demasy.io**
 
 
 
