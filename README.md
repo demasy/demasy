@@ -23,9 +23,9 @@
 ### Hello developers 👋, This is Demasy 👨🏻‍💻 🚀
 Oracle ACE ♠️ | Oracle Solutions Architect | Tech Lead | OAF | Cloud | 2x OCI | AWS | Agile | 2x Scrum Master
 
-``
-Passionate About Programming | Helping Others Succeed!
-``
+<p align="center">
+  <i>Passionate About Programming | Helping Others Succeed | Building the Next Generation of Oracle Developers</i>
+</p>
 
 </br>
 
